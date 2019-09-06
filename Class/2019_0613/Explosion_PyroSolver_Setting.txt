@@ -1,0 +1,42 @@
+【Simulationタブ】
+temperature Diffusion: 0.03
+cooling rate:  0.4
+buoyancy lift:  1.1
+
+
+
+【Combustionタブ】
+fuel inefficiency:  0.3
+temperature output:  0.3 
+gas released:  key 
+
+[flamesタブ]
+flame height:  10
+
+[smokeタブ]
+create dense smoke:  check
+heat cutoff:  0.8
+blend amount:  1
+
+[gasタブ]
+flame contribution:  0.625
+
+
+
+【shapeタブ】
+dissipation:  0.1
+disturbance:  0.28
+shredding:  0.072
+
+[dissipationタブ]
+control range:  0-3
+
+[disturbanceタブ]
+cutoff:  0.125
+
+[shreddingタブ]
+stretch:  0.25
+clip gradient:  25
+
+
+

@@ -4,4 +4,7 @@
 *.exr
 *mantra*
 *bak*
+*.DS_Store
+*.mp4
+
 Models/*
